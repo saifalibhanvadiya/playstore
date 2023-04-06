@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.appslist {
+  list-style: none;
+}
+.img {
+  width: 60px;
+}
+.appbox {
+  background-color: #ffff;
+  padding: 20px;
+  width: 150px;
+  height: 150px;
+  border-radius: 10px;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+}
+.apptext {
+  color: #1e293b;
+}
